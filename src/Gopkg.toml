@@ -1,5 +1,0 @@
-required = ["github.com/sirupsen/logrus" ]
-
-[prune]
-  go-tests = true
-  unused-packages = true

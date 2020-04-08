@@ -15,3 +15,5 @@
 
 bin/*
 !bin/.gitkeep
+
+go.sum
